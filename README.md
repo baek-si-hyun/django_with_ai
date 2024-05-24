@@ -600,7 +600,7 @@
 ✔ 해결
 
 - 서로의 데이터 세트를 통합하고 추가로 데이터를 수집해 10000개가 넘는 데이터 세트를 제작하였다.
-  > <img src="https://github.com/baek-si-hyun/django_with_ai/assets/107901109/77af3f38-231d-445d-a22e-e503c7f134c9" width="500px" >
+
 
 <br>
 
